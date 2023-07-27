@@ -1,0 +1,23 @@
+=== House_map.ase : 
+
+Tilemap for house interiors, each tile is 32*32, currently contain : 
+
+>3 debug textures in red, green and blue
+
+>a tile
+
+>a 4*2 tiles bed
+
+>fancy looking wall outlines
+
+>two posters that are totally not scaled posters for really famous disney shows (as it would be illegal), one in 1*2 tiles, the other one in 3*2
+
+>a picture 
+
+>a 4*2 door
+
+>a tv desk
+
+>a window
+
+>an actual desk with a laptop and some paper

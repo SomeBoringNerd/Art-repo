@@ -1,0 +1,6 @@
+=== Template.ase : 
+
+Template for characters in 32*64 for each side with a t-pose from the front.
+
+It contain a template for masculine and feminine characters (note : not male and female, masculine and feminine).
+
